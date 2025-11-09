@@ -7,8 +7,8 @@ Let’s go step by step 👇
 **DevOps** = **Development + Operations**
 
 It’s not just a job title or toolchain — it’s a **culture, mindset, and set of practices** that bring developers (who write code 💻) and operations engineers (who deploy and maintain servers ⚙️) together.
-![DevOps Infinity Loop](https://raw.githubusercontent.com/HaiderShaikh-AI/devops-assets/main/devops-infinity-loop.png)
 
+![DevOps Toolchain](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/05/devops-tools-chain.png?w=1024&ssl=1)
 
 ### In simple terms:
 
