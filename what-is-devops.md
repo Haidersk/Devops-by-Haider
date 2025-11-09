@@ -8,7 +8,7 @@ Let’s go step by step 👇
 
 It’s not just a job title or toolchain — it’s a **culture, mindset, and set of practices** that bring developers (who write code 💻) and operations engineers (who deploy and maintain servers ⚙️) together.
 
-![DevOps Toolchain](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/05/devops-tools-chain.png?w=1024&ssl=1)](https://www.manageengine.com/products/service-desk/images/devops-lifecycle-diagram.png)
+(https://www.manageengine.com/products/service-desk/images/devops-lifecycle-diagram.png)
 
 ### In simple terms:
 
