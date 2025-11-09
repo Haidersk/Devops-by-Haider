@@ -8,7 +8,8 @@ Let’s go step by step 👇
 
 It’s not just a job title or toolchain — it’s a **culture, mindset, and set of practices** that bring developers (who write code 💻) and operations engineers (who deploy and maintain servers ⚙️) together.
 
-(https://www.manageengine.com/products/service-desk/images/devops-lifecycle-diagram.png)
+<img width="1038" height="637" alt="image" src="https://github.com/user-attachments/assets/fd404080-fefe-47a6-bdb2-851886cd4642" />
+
 
 ### In simple terms:
 
